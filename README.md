@@ -62,3 +62,21 @@ To run this project on your local machine:
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/YOUR_USERNAME/wisdom-vault.git
+
+2. **Navigate into the project directory**
+   ```bash
+   cd wisdom-vault
+
+3. Open index.html in your browser
+   You can simply double-click the index.html file or use a local development server (like VS Code Live Server) to launch it.
+
+
+***🤝 Contributing
+Pull requests are welcome! If you’d like to contribute, feel free to fork the repo and submit a PR with your improvements or feature ideas.
+
+***💡 Inspiration
+Wisdom Vault was inspired by a desire to blend beauty and purpose — to create a minimalist, delightful space for daily reflection and motivation.
+
+***✨ Stay Inspired
+"Knowing yourself is the beginning of all wisdom." — Aristotle
+

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wisdom Vault - Daily Inspiration</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="app">
+        <div class="bg-gradient"></div>
+        <div class="bg-orbs">
+            <div class="orb orb-1"></div>
+            <div class="orb orb-2"></div>
+            <div class="orb orb-3"></div>
+        </div>
+
+        <header class="header">
+            <div class="logo">
+                <i class="fas fa-brain"></i>
+                <h1>Wisdom Vault</h1>
+            </div>
+            <p class="tagline">Unlock your daily dose of brilliance</p>
+        </header>
+
+        <main class="main">
+            <div id="quoteCard" class="quote-card">
+                <div class="quote-content">
+                    <blockquote id="quote" class="quote">Loading your daily wisdom...</blockquote>
+                    <cite id="author" class="author">— Anonymous</cite>
+                </div>
+                
+                <div class="controls">
+                    <button id="newBtn" class="btn btn-primary">
+                        <i class="fas fa-sync-alt"></i>
+                        <span>New Quote</span>
+                    </button>
+                    <button id="saveBtn" class="btn btn-secondary">
+                        <i id="heart" class="far fa-heart"></i>
+                        <span id="saveText">Save</span>
+                    </button>
+                </div>
+            </div>
+
+            <button id="favBtn" class="favorites-btn">
+                <i class="fas fa-star"></i>
+                <span>My Collection</span>
+                <span id="count" class="count">0</span>
+            </button>
+        </main>
+
+        <aside id="sidebar" class="sidebar">
+            <header class="sidebar-header">
+                <h2><i class="fas fa-star"></i> My Collection</h2>
+                <button id="closeBtn" class="close-btn">
+                    <i class="fas fa-times"></i>
+                </button>
+            </header>
+            <div id="collection" class="collection"></div>
+        </aside>
+
+        <div id="overlay" class="overlay"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

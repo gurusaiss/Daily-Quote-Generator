@@ -72,7 +72,7 @@ To run this project on your local machine:
 
 ---
 
-## 🤝 Contributing
+##🤝 Contributing
 - Pull requests are welcome! If you’d like to contribute, feel free to fork the repo and submit a PR with your improvements or feature ideas.
 
 ---
@@ -85,3 +85,4 @@ To run this project on your local machine:
 ##✨ Stay Inspired
   "Knowing yourself is the beginning of all wisdom." — Aristotle
 
+---

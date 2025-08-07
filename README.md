@@ -71,12 +71,12 @@ To run this project on your local machine:
    You can simply double-click the index.html file or use a local development server (like VS Code Live Server) to launch it.
 
 
-***🤝 Contributing
-Pull requests are welcome! If you’d like to contribute, feel free to fork the repo and submit a PR with your improvements or feature ideas.
+**🤝 Contributing**
+- Pull requests are welcome! If you’d like to contribute, feel free to fork the repo and submit a PR with your improvements or feature ideas.
 
-***💡 Inspiration
-Wisdom Vault was inspired by a desire to blend beauty and purpose — to create a minimalist, delightful space for daily reflection and motivation.
+**💡 Inspiration**
+- Wisdom Vault was inspired by a desire to blend beauty and purpose — to create a minimalist, delightful space for daily reflection and motivation.
 
-***✨ Stay Inspired
-"Knowing yourself is the beginning of all wisdom." — Aristotle
+**✨ Stay Inspired**
+  "Knowing yourself is the beginning of all wisdom." — Aristotle
 

@@ -1,31 +1,64 @@
-✨ Wisdom Vault ✨
-Unlock Your Daily Dose of Brilliance
-Welcome to Wisdom Vault, a beautifully designed and highly interactive web application that delivers daily inspiration and allows you to curate your own collection of favorite quotes. Crafted with a focus on stunning aesthetics, seamless user experience, and robust functionality, Wisdom Vault is designed to be your go-to source for motivation and reflection.
+# ✨ Wisdom Vault ✨  
+**Unlock Your Daily Dose of Brilliance**
 
-🌟 Features
-Dynamic Quote Cards: Experience a fresh look with every new quote! The quote box dynamically changes its vibrant gradient background, creating a visually engaging and ever-evolving interface.
-Crystal Clear Readability: Despite the dynamic colors, the quote text remains perfectly legible with high-contrast white text and subtle, effective text shadows.
-Vast Quote Collection: Discover wisdom from a curated list of inspiring quotes from renowned thinkers.
-"New Quote" Button: Instantly refresh your inspiration with a click, revealing a new quote and a new vibrant card design.
-"Save Quote" Favorites:
-Save your most cherished quotes to a personal collection.
-The "Save" button intelligently reflects the current quote's saved status with a delightful heart icon animation.
-Favorites persist across browser sessions using localStorage.
-Interactive "My Collection" Sidebar:
-A sleek, glassmorphic sidebar slides in to display all your saved quotes.
-Easily remove quotes from your collection at any time, regardless of the currently displayed quote.
-Calm & Peaceful Background: Enjoy a serene and consistent background gradient with subtle, floating animated orbs that add depth without distraction.
-Responsive Design: A flawless experience across all devices, from desktop to mobile.
-Intuitive Notifications: Get instant, elegant feedback for actions like saving or removing quotes.
-Keyboard Shortcuts: Navigate and interact swiftly with N (New Quote), S (Save Quote), F (Open Favorites), and Esc (Close Favorites).
-🚀 Technologies Used
-HTML5: For semantic structure.
-CSS3: For stunning visuals, animations, and responsive design, leveraging modern techniques like Flexbox, Grids, backdrop-filter (for glassmorphism), and CSS variables.
-JavaScript (ES6+): For all interactive functionality, including quote generation, localStorage management, and dynamic UI updates.
-Font Awesome: For beautiful and scalable icons.
-Google Fonts (Inter): For a clean, modern, and highly readable typeface.
-🛠️ Setup and Local Development
-To get a copy of this project up and running on your local machine:
+Welcome to **Wisdom Vault**, a beautifully designed and highly interactive web application that delivers daily inspiration and allows you to curate your own collection of favorite quotes. Crafted with a focus on stunning aesthetics, seamless user experience, and robust functionality, **Wisdom Vault** is your go-to source for motivation and reflection.
 
-Clone the repository:
-git clone https://github.com/YOUR_USERNAME/wisdom-vault.git
+---
+
+## 🌟 Features
+
+- 🎨 **Dynamic Quote Cards**  
+  Each new quote is displayed on a vibrant, randomly generated gradient background that keeps the experience fresh and visually appealing.
+
+- ✅ **Crystal Clear Readability**  
+  Quotes are rendered in high-contrast white text with soft shadows, ensuring perfect legibility regardless of background color.
+
+- 📚 **Vast Quote Collection**  
+  Pull from a curated list of inspiring, thought-provoking quotes from influential figures.
+
+- 🔁 **"New Quote" Button**  
+  Instantly refresh the content and background with a new quote at the click of a button.
+
+- ❤️ **"Save Quote" to Favorites**  
+  - Save your favorite quotes to your personal collection.
+  - Dynamic heart icon animation indicates save status.
+  - Favorites persist across sessions using `localStorage`.
+
+- 📂 **Interactive "My Collection" Sidebar**  
+  - Access your saved quotes through a sleek, glassmorphic slide-in panel.
+  - Effortlessly remove quotes anytime from your collection.
+
+- 🌌 **Serene Background**  
+  Subtle animated orbs float over a calm gradient background to provide a peaceful ambiance without distractions.
+
+- 📱 **Responsive Design**  
+  Enjoy a consistent and flawless experience across all screen sizes and devices.
+
+- 🧠 **Keyboard Shortcuts**  
+  - `N` → New Quote  
+  - `S` → Save Quote  
+  - `F` → Open Favorites  
+  - `Esc` → Close Favorites  
+
+- 🔔 **Elegant Notifications**  
+  Get smooth and minimalist alerts when saving or removing quotes from your favorites.
+
+---
+
+## 🚀 Technologies Used
+
+- **HTML5** – Semantic markup structure  
+- **CSS3** – Gradient backgrounds, glassmorphism, Flexbox/Grid, animations, and responsive design  
+- **JavaScript (ES6+)** – Dynamic quote loading, UI state management, keyboard support, and localStorage  
+- **Font Awesome** – Vector icons for interactivity (e.g., heart icons)  
+- **Google Fonts (Inter)** – Clean, modern, and highly readable font  
+
+---
+
+## 🛠️ Setup & Local Development
+
+To run this project on your local machine:
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/wisdom-vault.git
